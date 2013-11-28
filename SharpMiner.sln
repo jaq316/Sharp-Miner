@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpMiner", "SharpMiner\SharpMiner.csproj", "{A474F5E9-D65F-47A5-A7C6-7A194B538727}"
 EndProject
 Global
